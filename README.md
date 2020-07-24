@@ -17,6 +17,9 @@ We go to the directly of our choice to create a script there in **Nano**
 
 ![create_script](https://github.com/r0meroh/python_automations/blob/master/log_file_lab/create_script.PNG)
 
+
+![script](https://github.com/r0meroh/python_automations/blob/master/log_file_lab/script_complete.PNG)
+
 *Third*
 We change the script into an executable
 
